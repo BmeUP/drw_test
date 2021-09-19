@@ -1,6 +1,5 @@
 import hashlib
 import mimetypes
-import bcrypt
 
 
 def allowed_file(filename):
